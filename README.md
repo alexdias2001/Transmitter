@@ -46,7 +46,7 @@ Se você gostaria de ver todos transmitindo sua posição com o Virtual Flight O
 * Certifique-se de que IVAO esteja escolhido no menu suspenso de formato
 * Clique em Aplicar e OK
 
-## Versâo: 10.1.16
+## Versão: 10.1.16
 
 O transmissor agora possui funcionalidade de número PIN - onde um número PIN pode ser definido no servidor e os clientes precisam inserir o número PIN para poder usar o servidor com sucesso. Isso ajudará os grupos privados a proteger seus servidores contra usuários indesejados.
 
